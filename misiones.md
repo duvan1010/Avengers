@@ -1,2 +1,3 @@
 # misiones
 destuir
+* capturar
